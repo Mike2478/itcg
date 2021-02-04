@@ -1,13 +1,103 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+
+"Product":
+{
+
+    "Descripcion": " Nexxt Cable UTP 4 Pairs - CAT 5e - Stranded - Gray",
+
+    "mpn": "798302030015",
+
+    "centralRecno": "17460",
+
+    "localSku": "AB355NXT01",
+
+    "DescripcionFabrica": "Accvent",
+
+    "DescripcionMarca": "Nexxt Solutions Infrastructure",
+
+    "CategoriaCompleta": "Networking>>Cables",
+
+    "Cable / Tecnología": "Par trenzado sin blindar (UTP)",
+
+    "Cable / Tipo de cables de red": "Cable de red",
+
+    "Dimensiones y peso / Longitud": "304.8 m",
+
+    "Diverso / Color": "Gris",
+
+    "Encabezamiento / Fabricante": "Nexxt Solutions",
+
+    "Encabezamiento / Marca": "Nexxt",
+
+    "General / Categoría de accesorio": "Accesorios para organización de cables y cableado",
+
+    "Imagenes": [
+
+      {
+
+        "angulo": "Front",
+
+        "imagenId": "7BE0E9BE-9F51-480B-9661-60CC00E8682E",
+
+        "isMainImage": true,
+
+        "ancho": "200",
+
+        "alto": "150",
+
+        "url": "https://iwsportaldvlp.intcomex.com/images/75299884"
+
+      },
+
+      {
+
+        "angulo": "Front",
+
+        "imagenId": "7BE0E9BE-9F51-480B-9661-60CC00E8682E",
+
+        "isMainImage": true,
+
+        "ancho": "75",
+
+        "alto": "75",
+
+        "url": "https://iwsportaldvlp.intcomex.com/images/75299885"
+
+      },
+
+      {
+
+        "angulo": "Front",
+
+        "imagenId": "7BE0E9BE-9F51-480B-9661-60CC00E8682E",
+
+        "isMainImage": true,
+
+        "ancho": "400",
+
+        "alto": "300",
+
+        "url": "https://iwsportaldvlp.intcomex.com/images/75299886"
+
+      },
+
+      {
+
+        "angulo": "Front",
+
+        "imagenId": "7BE0E9BE-9F51-480B-9661-60CC00E8682E",
+
+        "isMainImage": true,
+
+        "ancho": "640",
+
+        "alto": "480",
+
+        "url": "https://iwsportaldvlp.intcomex.com/images/75299887"
+
+      }
+
+    ]
+
   }
 }
