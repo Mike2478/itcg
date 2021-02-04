@@ -6,14 +6,14 @@
  "mpn": "int",
  "Descripcion": "string",
  "DescripcionFabrica": "string",
- "Diverso / Color": "string",
- "Encabezamiento / Marca": "string",
- "General / Categoría de accesorio": "string",
+ "DiversoColor": "string",
+ "EncabezamientoMarca": "string",
+ "GeneralCategoriaaccesorio": "string",
  "localSku": "string",
- "Encabezamiento / Fabricante": "string",
- "Cable / Tipo de cables de red": "string",
+ "EncabezamientoFabricante": "string",
+ "CableTipo": "string",
  "DescripcionMarca": "string",
- "Cable / Tecnología": "string",
+ "CableTecnología": "string",
  "Imagenes": [
   {
    "url": "string",
@@ -24,6 +24,6 @@
    "ancho": "int"
   }
  ],
- "Dimensiones y peso / Longitud": "string"
+ "DimensionesLongitud": "string"
 }
 }
