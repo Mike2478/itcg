@@ -1,1 +1,29 @@
-{"Product":{"centralRecno":"17460","CategoriaCompleta":"Networking>>Cables","mpn":"798302030015","Descripcion":" Nexxt Cable UTP 4 Pairs - CAT 5e - Stranded - Gray","DescripcionFabrica":"Accvent","Diverso / Color":"Gris","Encabezamiento / Marca":"Nexxt","General / Categoría de accesorio":"Accesorios para organización de cables y cableado","localSku":"AB355NXT01","Encabezamiento / Fabricante":"Nexxt Solutions","Cable / Tipo de cables de red":"Cable de red","DescripcionMarca":"Nexxt Solutions Infrastructure","Cable / Tecnología":"Par trenzado sin blindar (UTP)","Imagenes":[{"url":"https://iwsportaldvlp.intcomex.com/images/75299884","imagenId":"7BE0E9BE-9F51-480B-9661-60CC00E8682E","angulo":"Front","alto":"150","isMainImage":true,"ancho":"200"},{"url":"https://iwsportaldvlp.intcomex.com/images/75299885","imagenId":"7BE0E9BE-9F51-480B-9661-60CC00E8682E","angulo":"Front","alto":"75","isMainImage":true,"ancho":"75"},{"url":"https://iwsportaldvlp.intcomex.com/images/75299886","imagenId":"7BE0E9BE-9F51-480B-9661-60CC00E8682E","angulo":"Front","alto":"300","isMainImage":true,"ancho":"400"},{"url":"https://iwsportaldvlp.intcomex.com/images/75299887","imagenId":"7BE0E9BE-9F51-480B-9661-60CC00E8682E","angulo":"Front","alto":"480","isMainImage":true,"ancho":"640"}],"Dimensiones y peso / Longitud":"304.8 m"}}
+{
+"Product":
+{
+ "centralRecno": "int",
+ "CategoriaCompleta": "string",
+ "mpn": "int",
+ "Descripcion": "string",
+ "DescripcionFabrica": "string",
+ "Diverso / Color": "string",
+ "Encabezamiento / Marca": "string",
+ "General / Categoría de accesorio": "string",
+ "localSku": "string",
+ "Encabezamiento / Fabricante": "string",
+ "Cable / Tipo de cables de red": "string",
+ "DescripcionMarca": "string",
+ "Cable / Tecnología": "string",
+ "Imagenes": [
+  {
+   "url": "string",
+   "imagenId": "string",
+   "angulo": "string",
+   "alto": "int",
+   "isMainImage": "boolean",
+   "ancho": "int"
+  }
+ ],
+ "Dimensiones y peso / Longitud": "string"
+}
+}
